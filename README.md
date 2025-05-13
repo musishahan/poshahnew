@@ -30,11 +30,11 @@
     <div class="form">
       <form align="center">
         <label for="fname">First Name</label><br>
-        <input type="text" id="fname" name="fname">
+        <input type="text" id="fname" name="fname"><br>
         <label for="lname">Last Name</label><br>
-        <input type="text" id="lname" name="lname">
+        <input type="text" id="lname" name="lname"><br>
         <label for="mobile">Mobile</label><br>
-        <input type="number" id="mobile" name="mobile">
+        <input type="number" id="mobile" name="mobile"><br>
         <input type="submit" value="submit">
       </form>
     </div>
