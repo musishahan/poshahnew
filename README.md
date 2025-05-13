@@ -8,7 +8,7 @@
       <div class="posh">
         <img src="https://dablrshoes.com/cdn/shop/files/20250106_db_010rt_1200x800_1bbdfb45-4067-49b7-8ece-1676a1fa02cd.webp?v=1736514232">
       </div>
-      <div class="posh>
+      <div class="posh">
         <img src="https://dablrshoes.com/cdn/shop/files/20240727_db_017rt_1200x800_46ec95e3-dfab-4347-b833-cad45031941c.webp?v=1723456201&width=533">
       </div>
       <div class="posh">
