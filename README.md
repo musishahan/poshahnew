@@ -18,7 +18,7 @@
     <div style="background-color: #EFEFEF;">
       <p1>Checkout our new products</p1>
       <div class="Poshah">
-        <img src"https://dgstak-rk.myshopify.com/cdn/shop/collections/Photoroom_20250206_213030.jpg?v=1744752439&width=535">
+        <img src="https://dgstak-rk.myshopify.com/cdn/shop/collections/Photoroom_20250206_213030.jpg?v=1744752439&width=535">
       </div>
       <div class="Poshah">
         <img src="https://dgstak-rk.myshopify.com/cdn/shop/collections/Derby_Background_corrected.png?v=1744752215&width=535">
