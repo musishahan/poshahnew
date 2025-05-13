@@ -3,7 +3,7 @@
   <title style="align: center;">Poshah</title>
   </head>
   <body style="background-color: #EFEFEF;">
-    <h1> Poshah is a e-commerce platform which is a manutailer of Premium footwear</h1>
+    <p1> Poshah is a e-commerce platform which is a manutailer of Premium footwear</p1>
     <div style="background-color: #EFEFEF;" class="wing">
       <div class="posh">
         <img src="https://dablrshoes.com/cdn/shop/files/20250106_db_010rt_1200x800_1bbdfb45-4067-49b7-8ece-1676a1fa02cd.webp?v=1736514232">
@@ -26,6 +26,17 @@
       <div class="carousel">
         <img src="https://dgstak-rk.myshopify.com/cdn/shop/collections/30705A32-3883-458C-BD7E-24F4721D187B.jpg?v=1744752242&width=535">
       </div>
+    </div>
+    <div class="form">
+      <form align="center">
+        <label for="fname">First Name</label><br>
+        <input type="text" id="fname" name="fname">
+        <label for="lname">Last Name</label><br>
+        <input type="text" id="lname" name="lname">
+        <label for="mobile">Mobile</label><br>
+        <input type="number" id="mobile" name="mobile">
+        <input type="submit" value="submit">
+      </form>
     </div>
   </body>
   <style>
