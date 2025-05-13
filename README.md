@@ -4,7 +4,7 @@
   </head>
   <body style="background-color: #EFEFEF;">
     <h1> Poshah is a e-commerce platform which is a manutailer of Premium footwear</h1>
-    <div style="background-color: #EFEFEF;">
+    <div style="background-color: #EFEFEF;" class="wing">
       <div class="posh">
         <img src="https://dablrshoes.com/cdn/shop/files/20250106_db_010rt_1200x800_1bbdfb45-4067-49b7-8ece-1676a1fa02cd.webp?v=1736514232">
       </div>
@@ -34,7 +34,7 @@
       padding: 10px;
       float: left;
       }
-    .posh:after{
+    .wing:after{
       content: "";
     display: table;
     clear: both;
